@@ -5,7 +5,6 @@ A production-ready Infrastructure-as-Code starter kit for AWS. This kit provides
 ## Project Structure
 
 ```text
-/iac-starter
 ├── .github/workflows/    # CI/CD pipelines
 │   └── deploy.yml        # Build and deploy to EKS
 ├── terraform/            # Infrastructure as Code
